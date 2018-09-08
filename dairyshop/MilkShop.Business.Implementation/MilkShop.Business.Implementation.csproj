@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C75FCCBF-1D5E-406B-AE48-AAF8BCC1E9FF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MilkShop.Business.Implementation</RootNamespace>
+    <AssemblyName>MilkShop.Business.Implementation</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="ItemManager.cs" />
+    <Compile Include="OrderOrCancelManager.cs" />
+    <Compile Include="PriceManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SaleTransManager.cs" />
+    <Compile Include="StatusManager.cs" />
+    <Compile Include="TestBAL.cs" />
+    <Compile Include="UnitManager.cs" />
+    <Compile Include="UserItemManager.cs" />
+    <Compile Include="UserManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MilkShop.Business.Contract\MilkShop.Business.Contract.csproj">
+      <Project>{0887aa22-8aa3-42f5-852e-a07835f7aab2}</Project>
+      <Name>MilkShop.Business.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MilkShop.Common\MilkShop.Common.csproj">
+      <Project>{08013d74-91e8-4881-b3d2-2e81dd1a09e4}</Project>
+      <Name>MilkShop.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MilkShop.DataAccess.Contract\MilkShop.DataAccess.Contract.csproj">
+      <Project>{60292524-2450-4b69-aea2-6880653f1144}</Project>
+      <Name>MilkShop.DataAccess.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MilkShop.DataAccess.Implementation\MilkShop.DataAccess.Implementation.csproj">
+      <Project>{ccc8ddd7-960a-4560-be56-b650f3da8f98}</Project>
+      <Name>MilkShop.DataAccess.Implementation</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

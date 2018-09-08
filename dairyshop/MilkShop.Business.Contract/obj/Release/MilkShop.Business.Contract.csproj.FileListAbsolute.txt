@@ -1,0 +1,14 @@
+E:\Work\Dairy\dairyshop\MilkShop.Business.Contract\bin\Release\MilkShop.Business.Contract.dll
+E:\Work\Dairy\dairyshop\MilkShop.Business.Contract\bin\Release\MilkShop.Business.Contract.pdb
+E:\Work\Dairy\dairyshop\MilkShop.Business.Contract\bin\Release\MilkShop.Common.dll
+E:\Work\Dairy\dairyshop\MilkShop.Business.Contract\bin\Release\MilkShop.Common.pdb
+E:\Work\Dairy\dairyshop\MilkShop.Business.Contract\obj\Release\MilkShop.Business.Contract.csprojResolveAssemblyReference.cache
+E:\Work\Dairy\dairyshop\MilkShop.Business.Contract\obj\Release\MilkShop.Business.Contract.dll
+E:\Work\Dairy\dairyshop\MilkShop.Business.Contract\obj\Release\MilkShop.Business.Contract.pdb
+C:\Users\Dairy_Admin\Downloads\Dairy\Dairy\dairyshop\MilkShop.Business.Contract\bin\Release\MilkShop.Business.Contract.dll
+C:\Users\Dairy_Admin\Downloads\Dairy\Dairy\dairyshop\MilkShop.Business.Contract\bin\Release\MilkShop.Business.Contract.pdb
+C:\Users\Dairy_Admin\Downloads\Dairy\Dairy\dairyshop\MilkShop.Business.Contract\bin\Release\MilkShop.Common.dll
+C:\Users\Dairy_Admin\Downloads\Dairy\Dairy\dairyshop\MilkShop.Business.Contract\bin\Release\MilkShop.Common.pdb
+C:\Users\Dairy_Admin\Downloads\Dairy\Dairy\dairyshop\MilkShop.Business.Contract\obj\Release\MilkShop.Business.Contract.csprojResolveAssemblyReference.cache
+C:\Users\Dairy_Admin\Downloads\Dairy\Dairy\dairyshop\MilkShop.Business.Contract\obj\Release\MilkShop.Business.Contract.dll
+C:\Users\Dairy_Admin\Downloads\Dairy\Dairy\dairyshop\MilkShop.Business.Contract\obj\Release\MilkShop.Business.Contract.pdb

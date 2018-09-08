@@ -1,0 +1,8 @@
+E:\Work\Dairy\dairyshop\MilkShop.Common\bin\Release\MilkShop.Common.dll
+E:\Work\Dairy\dairyshop\MilkShop.Common\bin\Release\MilkShop.Common.pdb
+E:\Work\Dairy\dairyshop\MilkShop.Common\obj\Release\MilkShop.Common.dll
+E:\Work\Dairy\dairyshop\MilkShop.Common\obj\Release\MilkShop.Common.pdb
+C:\Users\Dairy_Admin\Downloads\Dairy\Dairy\dairyshop\MilkShop.Common\bin\Release\MilkShop.Common.dll
+C:\Users\Dairy_Admin\Downloads\Dairy\Dairy\dairyshop\MilkShop.Common\bin\Release\MilkShop.Common.pdb
+C:\Users\Dairy_Admin\Downloads\Dairy\Dairy\dairyshop\MilkShop.Common\obj\Release\MilkShop.Common.dll
+C:\Users\Dairy_Admin\Downloads\Dairy\Dairy\dairyshop\MilkShop.Common\obj\Release\MilkShop.Common.pdb

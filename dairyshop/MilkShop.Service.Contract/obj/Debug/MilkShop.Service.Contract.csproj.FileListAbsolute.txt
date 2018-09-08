@@ -1,0 +1,14 @@
+E:\Work\MilkShop\MilkShop.Service.Contract\bin\Debug\MilkShop.Service.Contract.dll
+E:\Work\MilkShop\MilkShop.Service.Contract\bin\Debug\MilkShop.Service.Contract.pdb
+E:\Work\MilkShop\MilkShop.Service.Contract\obj\Debug\MilkShop.Service.Contract.csprojResolveAssemblyReference.cache
+E:\Work\MilkShop\MilkShop.Service.Contract\obj\Debug\MilkShop.Service.Contract.dll
+E:\Work\MilkShop\MilkShop.Service.Contract\obj\Debug\MilkShop.Service.Contract.pdb
+I:\Milk\dairyshop\MilkShop.Service.Contract\bin\Debug\MilkShop.Service.Contract.dll
+I:\Milk\dairyshop\MilkShop.Service.Contract\bin\Debug\MilkShop.Service.Contract.pdb
+I:\Milk\dairyshop\MilkShop.Service.Contract\obj\Debug\MilkShop.Service.Contract.csprojResolveAssemblyReference.cache
+I:\Milk\dairyshop\MilkShop.Service.Contract\obj\Debug\MilkShop.Service.Contract.dll
+I:\Milk\dairyshop\MilkShop.Service.Contract\obj\Debug\MilkShop.Service.Contract.pdb
+E:\Work\Dairy\dairyshop\MilkShop.Service.Contract\bin\Debug\MilkShop.Service.Contract.dll
+E:\Work\Dairy\dairyshop\MilkShop.Service.Contract\bin\Debug\MilkShop.Service.Contract.pdb
+E:\Work\Dairy\dairyshop\MilkShop.Service.Contract\obj\Debug\MilkShop.Service.Contract.dll
+E:\Work\Dairy\dairyshop\MilkShop.Service.Contract\obj\Debug\MilkShop.Service.Contract.pdb
